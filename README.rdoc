@@ -1,3 +1,3 @@
 polls
 
-This is a tes plugin for Redmine
+This is a test plugin for Redmine
